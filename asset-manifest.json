@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/redux-cart/static/css/main.101e73af.chunk.css",
-    "main.js": "/redux-cart/static/js/main.e1a0cc00.chunk.js",
-    "main.js.map": "/redux-cart/static/js/main.e1a0cc00.chunk.js.map",
-    "runtime-main.js": "/redux-cart/static/js/runtime-main.e879f677.js",
-    "runtime-main.js.map": "/redux-cart/static/js/runtime-main.e879f677.js.map",
-    "static/css/2.92eefb1d.chunk.css": "/redux-cart/static/css/2.92eefb1d.chunk.css",
-    "static/js/2.494090d5.chunk.js": "/redux-cart/static/js/2.494090d5.chunk.js",
-    "static/js/2.494090d5.chunk.js.map": "/redux-cart/static/js/2.494090d5.chunk.js.map",
-    "static/js/3.c2b25b65.chunk.js": "/redux-cart/static/js/3.c2b25b65.chunk.js",
-    "static/js/3.c2b25b65.chunk.js.map": "/redux-cart/static/js/3.c2b25b65.chunk.js.map",
-    "index.html": "/redux-cart/index.html",
-    "static/css/2.92eefb1d.chunk.css.map": "/redux-cart/static/css/2.92eefb1d.chunk.css.map",
-    "static/css/main.101e73af.chunk.css.map": "/redux-cart/static/css/main.101e73af.chunk.css.map",
-    "static/js/2.494090d5.chunk.js.LICENSE.txt": "/redux-cart/static/js/2.494090d5.chunk.js.LICENSE.txt"
+    "main.css": "/cart/static/css/main.101e73af.chunk.css",
+    "main.js": "/cart/static/js/main.ca10cb52.chunk.js",
+    "main.js.map": "/cart/static/js/main.ca10cb52.chunk.js.map",
+    "runtime-main.js": "/cart/static/js/runtime-main.9fb06bc4.js",
+    "runtime-main.js.map": "/cart/static/js/runtime-main.9fb06bc4.js.map",
+    "static/css/2.92eefb1d.chunk.css": "/cart/static/css/2.92eefb1d.chunk.css",
+    "static/js/2.494090d5.chunk.js": "/cart/static/js/2.494090d5.chunk.js",
+    "static/js/2.494090d5.chunk.js.map": "/cart/static/js/2.494090d5.chunk.js.map",
+    "static/js/3.c2b25b65.chunk.js": "/cart/static/js/3.c2b25b65.chunk.js",
+    "static/js/3.c2b25b65.chunk.js.map": "/cart/static/js/3.c2b25b65.chunk.js.map",
+    "index.html": "/cart/index.html",
+    "static/css/2.92eefb1d.chunk.css.map": "/cart/static/css/2.92eefb1d.chunk.css.map",
+    "static/css/main.101e73af.chunk.css.map": "/cart/static/css/main.101e73af.chunk.css.map",
+    "static/js/2.494090d5.chunk.js.LICENSE.txt": "/cart/static/js/2.494090d5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e879f677.js",
+    "static/js/runtime-main.9fb06bc4.js",
     "static/css/2.92eefb1d.chunk.css",
     "static/js/2.494090d5.chunk.js",
     "static/css/main.101e73af.chunk.css",
-    "static/js/main.e1a0cc00.chunk.js"
+    "static/js/main.ca10cb52.chunk.js"
   ]
 }
