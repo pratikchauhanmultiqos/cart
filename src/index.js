@@ -14,7 +14,6 @@ import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import WatchList from './components/watchlist/watchlist.component';
 import Category from './components/category/category.component';
-import CartFooter from './components/cart-footer/cart-footer.component';
 
 
 ReactDOM.render(
@@ -45,7 +44,6 @@ ReactDOM.render(
         </Switch>
       </Router>
     </Provider>
-    <CartFooter />
     <ToastContainer
       position="bottom-right"
       theme="dark"
