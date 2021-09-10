@@ -3,6 +3,6 @@ import rootReducer from './reducers';
 import logger from 'redux-logger'
 
 
-const DEV_TOOL = window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__()
+// const DEV_TOOL = window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__()
 
-export const store = createStore(rootReducer, compose(applyMiddleware(logger), DEV_TOOL));
+export const store = createStore(rootReducer, compose(applyMiddleware(logger)));
