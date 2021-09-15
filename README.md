@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Demo
+This project hosted by Pages [Demo](https://pratikchauhanmultiqos.github.io/cart/)
+
 ## Available Scripts
 
 In the project directory, you can run:
